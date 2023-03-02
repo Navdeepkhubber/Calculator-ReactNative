@@ -4,7 +4,7 @@ This is a simple calculator app built using React Native. The app is designed to
 
 ## Screenshots
 
-<img src="https://github.com/Navdeepkhubber/Calculator-ReactNative/blob/main/Demo/Demo.gif?raw=true" width="600" height="600"/>
+<img src="https://github.com/Navdeepkhubber/Calculator-ReactNative/blob/main/Demo/Demo.gif?raw=true" width="342" height="742"/>
 
 ## Features
 
