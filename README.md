@@ -4,6 +4,8 @@ This is a simple calculator app built using React Native. The app is designed to
 
 ## Screenshots
 
+<img src="https://github.com/Navdeepkhubber/Calculator-ReactNative/blob/main/Demo/Demo.gif?raw=true" width="250" height="250"/>
+
 ## Features
 
 1. Basic arithmetic operations such as addition, subtraction, multiplication, and division.
